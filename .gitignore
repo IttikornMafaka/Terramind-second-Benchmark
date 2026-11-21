@@ -1,0 +1,29 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Ignore Dataset
+data/
+outputs/checkpoints/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Jupyter backups
+.ipynb_checkpoints/
+main-recovered.ipynb
+
+# Dataset and model checkpoints
+/data/raw/
+/data/processed/
+/outputs/checkpoints/
+*.pt
+*.pth
+
+# Word temporary files
+~$*.docx
