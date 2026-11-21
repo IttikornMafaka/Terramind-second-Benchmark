@@ -76,11 +76,10 @@ The [large-change example](outputs/figures/large_changed_area_07341_tile3.png) s
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/TerraMind.git
+git clone https://github.com/IttikornMafaka/Terramind-second-Benchmark.git
 cd TerraMind
 ```
 
-Replace `USERNAME` with the GitHub account name.
 
 ### 2. Install Dependencies
 
@@ -149,5 +148,6 @@ For additional details on the architectures, experimental methodology, evaluatio
 ## Dataset Reference
 
 SECOND Dataset — [Official Project Website](https://captain-whu.github.io/SCD/)
+
 
 Yang et al. (2020). *Semantic Change Detection with Asymmetric Siamese Networks*.
