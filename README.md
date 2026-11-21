@@ -77,7 +77,7 @@ The [large-change example](outputs/figures/large_changed_area_07341_tile3.png) s
 
 ```bash
 git clone https://github.com/IttikornMafaka/Terramind-second-Benchmark.git
-cd TerraMind
+cd Terramind-second-Benchmark
 ```
 
 
